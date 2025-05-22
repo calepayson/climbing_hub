@@ -5,18 +5,7 @@ title: home
 
 # Choose Your Mood
 
-## Movie Night
-
-Default text.
-
-## Quick Fix
-
-Some more default text.
-
-## All About That Beta
-
-Look, even more default text.
-
-## Competition
-
-Some text about competition.
+- **[Move Night]()** - Movies about climbing. Great for a family movie night.
+- **[Quick Fix]()** - Some of our favorite 5-20 minute climbing clips.
+- **[All About That Beta]()** - Want to study? These videos are all about how to improve your technique.
+- **[Competition]()** - For the sports fans. World cup competition and clips.
