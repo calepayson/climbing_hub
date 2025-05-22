@@ -27,8 +27,9 @@ a:hover {
     text-decoration: underline;
 }
 
-main h1:first-child {
-    margin-top: 0;
+header {
+    margin-bottom: 0;
+    padding-bottom: 0;
 }
 
 .title h1 { font-size: 1.5em;
