@@ -20,7 +20,7 @@ unfair to expect you to climb 24/7. No worries.
 The second best way to get better at climbing is by immersing yourself in the
 sport. Hanging out with folks that climb, reading books on it, or watching
 videos on it will all help you get more familiar with all aspects climbing
-vocabulary, verabally, mentally and physically.
+vocabulary, verbally, mentally and physically.
 
 We've put together some of our favorite climbing videos. This collection is by
 no means comprehensive but we think it's a great place to start if you're new
