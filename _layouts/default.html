@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>{{ page.title | default: site.title }}</title>
+</head>
+
+<body>
+    <header>
+        <a class="title" href="/">
+            <h1>Climbing Videos</h1>
+        </a>
+        <nav>
+            <a href="/">
+                <p>Home</p>
+            </a>
+        </nav>
+    </header>
+
+    <main>
+        {{ content }}
+    </main>
+
+    <footer>
+        <small>
+            <p>"Great things are done when men and mountains meet; This is not done by jostling in the street."</p>
+            <p>-William Blake</p>
+        </small>
+    </footer>
+</body>
+
+</html>
