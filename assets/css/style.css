@@ -27,7 +27,7 @@ a:hover {
     text-decoration: underline;
 }
 
-header h1, main h1 {
+main h1:first-child {
     margin-top: 0;
 }
 
