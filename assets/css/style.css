@@ -19,17 +19,8 @@ a {
     text-decoration: none;
 }
 
-nav a {
-    margin-right: 8px;
-}
-
 a:hover {
     text-decoration: underline;
-}
-
-header {
-    margin-bottom: 0;
-    padding-bottom: 0;
 }
 
 .title h1 { font-size: 1.5em;
