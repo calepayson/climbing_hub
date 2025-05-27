@@ -10,7 +10,7 @@ Don't have much time but need a quick fix? Checkout out some of these clips.
 ## [Beta Break](https://www.youtube.com/playlist?list=PLsfWe31L6Quop7WDY7ky711o_Jhp4LKaS)
 
 A series of clips going over how and why athletes broke beta (did something
-funky) in a competition. Whatch them all. They rock.
+funky) in a competition. Watch them all. They rock.
 
 ## [World's First 9b+](https://www.youtube.com/watch?v=edfw9ip9sCQ) - [Adam Ondra](https://www.youtube.com/channel/UC8eNyF9eYwgr_K-Nl4gSHWw)
 
