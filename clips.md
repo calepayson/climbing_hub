@@ -7,6 +7,11 @@ title: Clips
 
 Don't have much time but need a quick fix? Checkout out some of these clips.
 
+## [THE GOLD STANDARD](https://www.youtube.com/watch?v=aGE4SOOmYlk) - Keenan Takahashi
+
+My favorite climber's favorite climbing video. The ultimate climbing clip. It's
+all down hill from here (but you should still check out the rest).
+
 ## [Beta Break](https://www.youtube.com/playlist?list=PLsfWe31L6Quop7WDY7ky711o_Jhp4LKaS)
 
 A series of clips going over how and why athletes broke beta (did something
@@ -45,9 +50,9 @@ one is a gem.
 
 It's hard to understand just how good professional climbers are. It's not like
 surfing or skiing where the best are hucking the highest airs, or mashing the
-biggest carves. Instead, great climbers make the impossible look like a walk in
-the park. They'll hit an impossible move with grace, jump off, and say something
-like, "that was tricky but the edge is actually pretty incut".
+biggest carves. Instead, great climbers make the insurmountable look like a walk
+in the park. They'll hit an impossible move with grace, jump off, and say
+something like, "that was tricky but the edge is actually pretty incut".
 
 This video was my introduction to the chasm between the pros and mere mortals
 and I hope it serves as the same for you.
