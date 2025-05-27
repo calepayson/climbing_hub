@@ -9,8 +9,15 @@ Don't have much time but need a quick fix? Checkout out some of these clips.
 
 ## [THE GOLD STANDARD](https://www.youtube.com/watch?v=aGE4SOOmYlk) - Keenan Takahashi
 
-My favorite climber's favorite climbing video. The ultimate climbing clip. It's
-all down hill from here (but you should still check out the rest).
+My favorite climber's favorite climbing video. The ultimate climbing clip
+starring a local crusher. It's all down hill from here (but you should still
+check out the rest).
+
+## [In Sequence](https://www.youtube.com/watch?v=aGE4SOOmYlk) - Katie Lamb
+
+Another local crusher and the first woman to climb V16. This video is more about
+her mindset within and around climbing than any one individual climb. Quite the
+acheivement for a video featuring some of the best climbs you'll ever see.
 
 ## [Beta Break](https://www.youtube.com/playlist?list=PLsfWe31L6Quop7WDY7ky711o_Jhp4LKaS)
 
@@ -31,6 +38,13 @@ mentality and more](https://www.youtube.com/watch?v=pZCmsYxHRB8).
 ## [Floatin](https://www.youtube.com/watch?v=zIOCIRd8Mxk) - Ryuichi Murai
 
 Narationless, short, all about the climb. And, oh lawdy, what a climb.
+
+## [MEGATRON](https://www.youtube.com/watch?v=f_MniTA8MYU) - Shawn Raboutou
+
+Shawn Raboutou and his sister are the climbing equivalent of super-soldiers. The
+progeny of two already incredible climbers these two were slated for greatness
+even when they were gleams in their parent's eyes. Megatron shows Shawn at his
+best.
 
 ## [1 Minute Knockout](https://www.youtube.com/watch?v=_dfB2AKxAx0&t=239s) - [Toby Roberts](https://www.youtube.com/@TobyClimbing) (and more)
 
